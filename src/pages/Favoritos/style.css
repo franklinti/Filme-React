@@ -61,6 +61,7 @@
     background-color: white;
     color: rgb(241, 144, 25);
 }
+<<<<<<< HEAD
 
 .mensagem {
     margin-top: calc(50vh - 50px);
@@ -70,3 +71,5 @@
     justify-content: center;
     align-items: center;
 }
+=======
+>>>>>>> a8e15b8d76002605ecfde2dbb95502a843d98a69
