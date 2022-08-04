@@ -61,3 +61,12 @@
     background-color: white;
     color: rgb(241, 144, 25);
 }
+
+.mensagem {
+    margin-top: calc(50vh - 50px);
+    font-size: clamp(1.2em, 0.7em * 0.6vw, 1.2em);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
